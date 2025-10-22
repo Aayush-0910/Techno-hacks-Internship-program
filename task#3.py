@@ -44,7 +44,7 @@ while True:
     elif choice == "3":
         remove_task()
     elif choice == "4":
-        print("Goodbye!")
+        print("It was good working with you. Have a nice day!")
         break
     else:
-        print("Invalid choice. Please enter a valid option.")
+        print("oops! a wrong option is pressed.Please press an valid option.")
